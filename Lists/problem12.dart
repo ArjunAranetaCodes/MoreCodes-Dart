@@ -15,7 +15,7 @@ void main() {
  if(notMatch > 0){
   stdout.writeln("Not Equal");
  }else{
-  stdout.writeln("Equal Arrays");
+  stdout.writeln("Equal Lists");
  }
 }
 
