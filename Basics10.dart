@@ -1,9 +1,9 @@
-//Array Basics
+//List Basics
 
 void main(){
- var array = [1,2,3];
- print("${array[0]}");
- print("${array[1]}");
- print("${array[2]}");
+ var lst = [1,2,3];
+ print("${lst[0]}");
+ print("${lst[1]}");
+ print("${lst[2]}");
 }
 

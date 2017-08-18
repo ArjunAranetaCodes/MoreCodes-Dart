@@ -2,9 +2,9 @@
 import "dart:io";
 
 void main() {
- var arrNumbers = [1,2,3];
+ var lstNumbers = [1,2,3];
 
- for(var x in arrNumbers){
+ for(var x in lstNumbers){
   stdout.writeln("${x}");
  }
 }

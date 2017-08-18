@@ -2,12 +2,12 @@
 import "dart:io";
 
 void main() {
- var array1 = [1,2,3];
- var array2 = new List(3);
+ var list1 = [1,2,3];
+ var list2 = new List(3);
 
- array2 = array1;
+ list2 = list1;
 
- for(var x in array2){
+ for(var x in list2){
   stdout.writeln("${x}");
  }
 }

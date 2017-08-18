@@ -2,12 +2,12 @@
 import "dart:io";
 
 void main() {
- var arrNumbers = [1,2,3];
- var min = arrNumbers[0];
+ var lstNumbers = [1,2,3];
+ var min = lstNumbers[0];
 
- for(var x = 0; x < arrNumbers.length; x++){
-  if(arrNumbers[x] < min){
-   min = arrNumbers[x];
+ for(var x = 0; x < lstNumbers.length; x++){
+  if(lstNumbers[x] < min){
+   min = lstNumbers[x];
   }
  }
 

@@ -2,9 +2,9 @@
 import "dart:io";
 
 void main() {
- var arrNumbers = [1,2,3];
+ var lstNumbers = [1,2,3];
 
- stdout.writeln("${arrNumbers.reversed}");
+ stdout.writeln("${lstNumbers.reversed}");
 }
 
 

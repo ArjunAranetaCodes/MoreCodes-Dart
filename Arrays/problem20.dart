@@ -2,16 +2,16 @@
 import "dart:io";
 
 void main() {
- var arrNumbers = [1,2,3];
- var closest = arrNumbers[0];
- var numDiff = arrNumbers[0];
+ var lstNumbers = [1,2,3];
+ var closest = lstNumbers[0];
+ var numDiff = lstNumbers[0];
 
- for(var x = 0; x < arrNumbers.length; x++){
-  var diff = 0 - arrNumbers[x];
+ for(var x = 0; x < lstNumbers.length; x++){
+  var diff = 0 - lstNumbers[x];
   diff = diff.abs();
   if (diff < numDiff){
    numDiff = diff;
-   closest = arrNumbers[x];
+   closest = lstNumbers[x];
   }
  }
 

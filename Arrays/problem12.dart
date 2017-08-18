@@ -2,12 +2,12 @@
 import "dart:io";
 
 void main() {
- var array1 = [1,2,3];
- var array2 = [1,2,3];
+ var list1 = [1,2,3];
+ var list2 = [1,2,3];
  var notMatch = 0;
 
- for(var x = 0; x < array1.length; x++){
-  if(array1[x] != array2[x]){
+ for(var x = 0; x < list1.length; x++){
+  if(list1[x] != list2[x]){
    notMatch = notMatch + 1;
   }
  }
