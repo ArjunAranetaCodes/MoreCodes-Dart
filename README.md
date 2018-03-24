@@ -25,7 +25,7 @@ Computer Programming Problems and Solutions with the Dart Language
 10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Dart/blob/master/Basics10.dart" target="_blank">Array/List</a>
 
 - - - -
-### [Dart Easy Programming Problems](Problems/) <- Click to go to Easy Problems
+### [Dart Easy Programming Problems](Easy%20Problems/) <- Click to go to Easy Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Dart/blob/master/Easy%20Problems/problem1.dart" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Dart/blob/master/Easy%20Problems/problem2.dart" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
